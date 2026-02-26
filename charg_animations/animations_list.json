@@ -4,11 +4,5 @@
     "name": "Battery Charging",
     "category": "Classic",
     "url": "https://raw.githubusercontent.com/wackwackshop/walla/main/charg_animations/batery-charging.json"
-  },
-  {
-    "id": 2,
-    "name": "Fast Charge Glow",
-    "category": "Modern",
-    "url": "https://raw.githubusercontent.com/wackwackshop/walla/main/charg_animations/diger_dosya_adi.json"
   }
 ]
